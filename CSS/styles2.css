@@ -1,0 +1,93 @@
+body{
+    
+    text-align: center;
+    background-color: #CDDEEE;
+    font-family: 'Nunito', sans-serif;
+    border-left: dotted;
+    
+}
+p{
+    width: 225px;
+    margin: auto;
+}
+.top-container
+{
+
+   width: 15%;
+   
+   margin: 200px auto 0 auto ;
+   padding: 12px 12px 30px 12px;
+   border-radius: 15px;
+   background-color:white;
+}
+.barcode
+{
+    border-radius: 15px;
+    margin-bottom: 16px;
+    
+}
+.text
+{
+    width: 200px;
+    margin: 0 auto 16px auto;
+   
+   font-family: 'Outfit', sans-serif;
+   font-weight: 900;
+    
+    display: inline-block;
+   
+    line-height: 1.5;
+}
+.text2
+{
+    font-size: 0.8em;
+    font-weight: bolder;
+    color: #B2B2B2
+}
+.mentor
+{
+    margin-top : 100px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+.mm
+{
+    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    color:white;
+
+}
+.mm:hover
+{
+  color: grey;
+   
+
+}
+.final
+{
+    margin-top: 100px;
+    padding-bottom: 20px;
+    font-family: 'Outfit', sans-serif;
+    color: #434242;
+    font-weight: bolder;
+    
+}
+.an{
+    font-family: 'Outfit', sans-serif;
+}
+.ep{
+    font-weight: bolder;
+    color: #434242;
+}
+.name
+{
+    font-family: 'Nunito', sans-serif;
+    
+    text-decoration: none;
+    color: white;
+}
+.para
+{
+    padding:40px;
+    margin-bottom: 30px;
+}
